@@ -11,7 +11,7 @@
 
 - 💬 Ask me about : **JAVA,JAVAFX,MYSQL.**
 
-- 📫 Reach me via :  **drpeiris3@gmail.com**
+- 📧 Reach me via :  **drpeiris3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
