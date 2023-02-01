@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/damianlka" target="blank"><img src="https://img.shields.io/twitter/follow/damianlka?logo=twitter&style=for-the-badge" alt="damianlka" /></a> </p>
 
-- 💬 Ask me about : **JAVA,JAVAFX,MYSQL.**
-
 - 📧 Reach me via :  **drpeiris3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
