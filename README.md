@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://twitter.com/damianlka" target="blank"><img src="https://img.shields.io/twitter/follow/damianlka?logo=twitter&style=for-the-badge" alt="damianlka" /></a> </p>
 
  # Reach me via :
-- 📧  <a href="mailto:drpeiris3@gmail.com">drpeiris3@gmail.com</a>
-- <img src="https://em-content.zobj.net/thumbs/240/google/350/incoming-envelope_1f4e8.png" align="left" height="2%" width="2%"></img><a href="https://t.me/damianpeiris">Drop a message on Telegram!</a>
+- <img src="https://pbs.twimg.com/profile_images/1313394640393957378/L0W5hykJ_400x400.jpg" align="left" height="2%" width="2%"></img>  <a href="mailto:drpeiris3@gmail.com">drpeiris3@gmail.com</a>
+- <img src="https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_400x400.jpg" align="left" height="2%" width="2%"></img><a href="https://t.me/damianpeiris">Drop a message on Telegram!</a>
       
           
 
