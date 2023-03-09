@@ -38,9 +38,17 @@
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1272878892232007680/TIM90dV6_400x400.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1542647040756568064/YbE5Hs-5_400x400.jpg" alt="Figma" height="50" /></a>  
-</div><br>
+</div><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damianravindupeiris&show_icons=true&locale=en&layout=compact" alt="damianravindupeiris" /></p>
+<h3><u>My stats :</u></h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianravindupeiris&show_icons=true&locale=en" alt="damianravindupeiris" /></p>
+[![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianravindupeiris)](https://github.com/damianravindupeiris/damianravindupeiris)<br><br>
 
+<h3><u> Top languages :</u></h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianravindupeiris&hide_progress=true)](https://github.com/damianravindupeiris/damianravindupeiris)
+
+<h3><u>Recent Projects :</u></h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=damianravindupeiris&repo=institute-management-system)](https://github.com/damianravindupeiris/institute-management-system)<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=damianravindupeiris&repo=orm-hibernate.)](https://github.com/damianravindupeiris/orm-hibernate.)
