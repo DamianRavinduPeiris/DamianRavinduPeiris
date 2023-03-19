@@ -51,4 +51,4 @@
 <h3><u>Recent Projects :</u></h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=damianravindupeiris&repo=institute-management-system)](https://github.com/damianravindupeiris/institute-management-system)<br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=damianravindupeiris&repo=orm-hibernate.)](https://github.com/damianravindupeiris/orm-hibernate.)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=damianravindupeiris&repo=orm-hibernate)](https://github.com/damianravindupeiris/orm-hibernate.)
