@@ -10,8 +10,9 @@
 <p align="left"> <a href="https://twitter.com/damianlka" target="blank"><img src="https://img.shields.io/twitter/follow/damianlka?logo=twitter&style=for-the-badge" alt="damianlka" /></a> </p>
 
  # Reach me via :
-- <img src="https://pbs.twimg.com/profile_images/1313394640393957378/L0W5hykJ_400x400.jpg" align="left" height="2%" width="2%"></img>  <a href="mailto:drpeiris3@gmail.com">Drop an email.</a>
-- <img src="https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_400x400.jpg" align="left" height="2%" width="2%"></img><a href="https://t.me/damianpeiris">Drop a message.</a>
+## <img src="https://pbs.twimg.com/profile_images/1313394640393957378/L0W5hykJ_400x400.jpg" align="left" height="2%" width="2%"></img>  Drop an <a href=mailto:drpeiris3@gmail.com>email.</a>
+##  <img src="https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_400x400.jpg" align="left" height="2%" width="2%"></img>Drop a <a href="https://t.me/damianpeiris" target=_blank>message</a>
+##  <img src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" align="left" height="2%" width="2%"></img>Drop a <a href="https://wa.me/+94774519629" target=_blank>message</a>
       
           
 
