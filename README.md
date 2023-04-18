@@ -8,14 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damianravidnupeiris&label=Profile%20views&color=0e75b6&style=flat" alt="damianravidnupeiris" /> </p>
 
 <p align="left"> <a href="https://twitter.com/damianlka" target="blank"><img src="https://img.shields.io/twitter/follow/damianlka?logo=twitter&style=for-the-badge" alt="damianlka" /></a> </p>
-
- # Reach me via :
-## <img src="https://pbs.twimg.com/profile_images/1313394640393957378/L0W5hykJ_400x400.jpg" align="left" height="2%" width="2%"></img>  Drop an <a href=mailto:drpeiris3@gmail.com>email.</a>
-##  <img src="https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_400x400.jpg" align="left" height="2%" width="2%"></img>Drop a <a href="https://t.me/damianpeiris" target=_blank>message</a>
-##  <img src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" align="left" height="2%" width="2%"></img>Drop a <a href="https://wa.me/+94774519629" target=_blank>message</a>
-      
-          
-
+         
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +17,9 @@
 <a href="https://twitter.com/damianlka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damianlka" height="30" width="40" /></a>
 <a href="https://instagram.com/damian.peiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damian.peiris" height="30" width="40" /></a>
 <a href="https://facebook.com/damianravindupeiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damianravindupeiris" height="30" width="40" /></a>
+ <a href="mailto:drpeiris3@gmail.com" target="_blank"><img align="center" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="Gmail Logo." height="30" width="40" /></a>
+ <a href="https://t.me/damianpeiris" target="_blank"><img align="center" src="https://logowik.com/content/uploads/images/t_telegram7584.jpg" alt="Telegram Logo." height="30" width="40" /></a>
+  <a href="https://wa.me/+94774519629" target="_blank"><img align="center" src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg" alt="WhatsApp Logo." height="50" width="50" /></a>
 
 </p>
 
