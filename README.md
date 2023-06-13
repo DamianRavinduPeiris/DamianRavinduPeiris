@@ -1,7 +1,7 @@
 ![MasterHead](https://codeinspiration.pro/wp-content/uploads/2018/10/Java.jpg)
 <h1 align="center"><mark>Hi 👋, I'm Damian Peiris.</mark></h1>
 <h3 align="center">A begineer Software Engineering student from Sri Lanka. 🇱🇰</h3>
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center">
+
 
 
 ## ▶️ Socials :
