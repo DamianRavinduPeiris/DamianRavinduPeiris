@@ -1,4 +1,6 @@
-![MasterHead](https://codeinspiration.pro/wp-content/uploads/2018/10/Java.jpg)
+<div align="center">
+<img src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif">
+</div>
 <h1 align="center"><mark>Hi 👋, I'm Damian Peiris.</mark></h1>
 <h3 align="center">A begineer Software Engineering student from Sri Lanka. 🇱🇰</h3>
 
