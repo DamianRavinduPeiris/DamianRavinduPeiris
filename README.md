@@ -1,13 +1,10 @@
-<div align="center">
-<img src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif">
-</div>
-<h1 align="center"><mark>Hi 👋, I'm Damian Peiris.</mark></h1>
-<h3 align="center">A begineer Full-Stack Software Engineering student from Sri Lanka. 🇱🇰</h3>
+# <h1 align="center"><mark>Hi 👋, I'm `Damian Peiris.`</mark></h1>
+# <h3 align="center">A begineer `Full-Stack Software Engineering` student from Sri Lanka. 🇱🇰</h3>
 
 
 <div align="center">
   
-##  Socials. 
+#  `Socials.` 
 
 </div>
 
@@ -19,7 +16,7 @@
 
 <div align="center">
   
-##  Tech Stack. 
+# `Tech Stack.` 
 
 </div>
 
@@ -33,7 +30,7 @@
 
 <div align="center">
   
-##  GitHub Stats.
+# `GitHub Stats`.
 
 </div>
 
@@ -63,7 +60,7 @@
 <div align="center">
 
 
-###  Top Contributed Repositories.
+# `Top Contributed Repositories.`
 
 </div>
 
