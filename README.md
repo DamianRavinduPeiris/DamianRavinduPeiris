@@ -46,6 +46,20 @@
   
 </div>
 <br>
+
+<br clear="both">
+
+<h1 align="center">🗿 Github Stats.</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=damianravindupeiris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+<br>
+
 <div align='center'>
 
 <h1>Socials : 👉🏻 <a href='https://beacons.ai/damianpeiris'>https://beacons.ai/damianpeiris</a></h1>
