@@ -1,7 +1,21 @@
-<h1 align="center">👋🏻 Hey there,  I'm Damian Peiris. </h1>
+<h3 align="center">👋🏻 Hey there,  I'm Damian Peiris. </h3>
 <br>
 
- <h2 align="center">A begineer Full-Stack Software Engineering student from Sri Lanka. 🇱🇰</h2>
+ <h3 align="center">A begineer Full-Stack Software Engineering student from Sri Lanka. 🇱🇰</h3>
+
+
+ <br clear="both">
+
+<h1 align="center">🗿 Github Stats.</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=damianravindupeiris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+<br>
 
 ###
 
@@ -44,22 +58,11 @@
 </div>
 <br>
 
-<br clear="both">
 
-<h1 align="center">🗿 Github Stats.</h1>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=damianravindupeiris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-<br>
 
 <div align='center'>
 
-<h1>Socials : 👉🏻 <a href='https://beacons.ai/damianpeiris'>https://beacons.ai/damianpeiris</a></h1>
+<h3>Socials : 👉🏻 <a href='https://beacons.ai/damianpeiris'>https://beacons.ai/damianpeiris</a></h3>
 </div>
 
 
