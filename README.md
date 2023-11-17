@@ -1,7 +1,4 @@
-<h3 align="center">👋🏻 Hey there,  I'm Damian Peiris. </h3>
-<br>
 
- <h3 align="center">A begineer Full-Stack Software Engineering student from Sri Lanka. 🇱🇰</h3>
 
 
  <br clear="both">
@@ -23,6 +20,9 @@
 <br>
 
 ###
+<h1 align="center">💻 Tech Stack.</h1>
+<br>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -56,13 +56,14 @@
   
   
 </div>
+
+
+<br>
 <br>
 
-
-
 <div align='center'>
+<h3><a href='https://beacons.ai/damianpeiris'>Let's Connect!🥂</a></h3>
 
-<h3>Socials : 👉🏻 <a href='https://beacons.ai/damianpeiris'>https://beacons.ai/damianpeiris</a></h3>
 </div>
 
 
