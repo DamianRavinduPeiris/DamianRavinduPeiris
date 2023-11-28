@@ -1,6 +1,6 @@
 
-
-
+<h1 align="center">👋🏻 Hey There, I'm Damian,</h1>
+<h1 align="center">A Passionate Full-Stack software engineering student from Sri Lanka.<br> 🇱🇰</h1>
  <br clear="both">
 
 <h1 align="center">🗿 Github Stats.</h1>
