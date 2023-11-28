@@ -2,25 +2,7 @@
 ## 👋🏻 Hey There, I'm Damian,<br>
 ### A Passionate Full-Stack software engineering student from Sri Lanka. 🇱🇰
  <br clear="both">
-
-### 🗿 Github Stats.
-
-###
-
-<div>
-  <img src="https://streak-stats.demolab.com?user=damianravindupeiris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-<br>
-
-
-###
-### 💻 Tech Stack.
-
-<br>
-
-<div>
+ <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -55,7 +37,16 @@
 
 
 <br>
-<br>
+
+### 🗿 Github Stats.
+
+###
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=damianravindupeiris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <div>
 <h3><a href='https://beacons.ai/damianpeiris'>Let's Connect!🥂</a></h3>
