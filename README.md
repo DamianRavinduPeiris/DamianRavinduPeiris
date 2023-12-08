@@ -1,8 +1,8 @@
 
 # Hi, I'm Damian Peiris.👋🏻
-I'm a 21-year-old `Full-Stack` software engineering student from `Colombo, Sri Lanka`. Currently, I am pursuing a B.Sc. Hons in Software Engineering at `Institute of Java and Software Engineering` and I am proud to be an alumnus of `St. Peter's College Colombo 04`. My interests lie in finding practical solutions to real-world problems, and I am passionate about leveraging my programming skills to make a meaningful difference. 
- <br clear="both">
- ### Languages,Tools and Frameworks.
+I'm a 21-year-old Full-Stack software engineering student from Colombo, Sri Lanka. Currently, I am pursuing a B.Sc. Hons in Software Engineering at Institute of Java and Software Engineering and I am proud to be an alumnus of St. Peter's College Colombo 04. My interests lie in finding practical solutions to real-world problems, and I am passionate about leveraging my programming skills to make a meaningful difference. 
+ 
+ ## Languages,Tools and Frameworks.
  <br>
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -40,7 +40,7 @@ I'm a 21-year-old `Full-Stack` software engineering student from `Colombo, Sri L
 
 <br>
 
-### Github Stats.
+## Github Stats.
 
 ###
 
