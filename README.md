@@ -37,6 +37,17 @@ I'm a 21-year-old Full-Stack software engineering student from Colombo, Sri Lank
   <img width="12" />
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg"  height="40" alt="Sonarqube logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" height="40" alt="JUnit 5 logo"/>
+          
+          
+          
+          
   
   
 </div>
