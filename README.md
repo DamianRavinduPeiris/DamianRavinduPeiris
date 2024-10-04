@@ -1,10 +1,9 @@
-
 # Hi, I'm Damian Peiris.👋🏻
 I'm a 21-year-old Full-Stack software engineering student from Colombo, Sri Lanka. Currently, I am pursuing a B.Sc. Hons in Software Engineering at Institute of Java and Software Engineering and I am proud to be an alumnus of St. Peter's College Colombo 04. My interests lie in finding practical solutions to real-world problems, and I am passionate about leveraging my programming skills to make a meaningful difference. 
- 
- ## Languages,Tools and Frameworks.
- <br>
- <div>
+
+## Languages,Tools and Frameworks.
+<br>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -44,20 +43,13 @@ I'm a 21-year-old Full-Stack software engineering student from Colombo, Sri Lank
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg"  height="40" alt="Sonarqube logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" height="40" alt="JUnit 5 logo"/>
-          
-          
-          
-          
-  
-  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes logo />         
 </div>
 
-
-<br>
+<br><br>
 
 ## Github Stats.
-
-###
 
 <div>
   <img src="https://streak-stats.demolab.com?user=damianravindupeiris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
