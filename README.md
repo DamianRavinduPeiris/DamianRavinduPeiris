@@ -1,5 +1,7 @@
 # Hi, I'm Damian Peiris.👋🏻
-I'm a 21-year-old Full-Stack software engineering student from Colombo, Sri Lanka. Currently, I am pursuing a B.Sc. Hons in Software Engineering at Institute of Java and Software Engineering and I am proud to be an alumnus of St. Peter's College Colombo 04. My interests lie in finding practical solutions to real-world problems, and I am passionate about leveraging my programming skills to make a meaningful difference. 
+I am a results-oriented professional with a robust background in Java, Spring Boot, and the MERN stack. My expertise encompasses modern development practices, including Dockerization, unit testing with JUnit and Mockito, and the design of scalable systems utilizing microservices and message-driven architectures such as Apache Kafka. I am also proficient in cloud platforms like AWS, enabling me to deliver efficient, scalable, and resilient solutions.
+
+Driven by a deep sense of curiosity and a commitment to continuous learning, I remain at the forefront of emerging technologies and best practices. I possess a strong ability to independently tackle complex challenges, leveraging research and analytical thinking to devise effective solutions. My passion for innovation and quality drives me to consistently deliver results that meet both technical and business objectives with precision and efficiency.
 
 ## Languages,Tools and Frameworks.
 <br>
