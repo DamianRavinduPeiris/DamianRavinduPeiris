@@ -1,4 +1,6 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+
+
 # Hi, I'm Damian Peiris.👋🏻
 I am a results-oriented professional with a robust background in Java, Spring Boot, and the MERN stack. My expertise encompasses modern development practices, including Dockerization, unit testing with JUnit and Mockito, and the design of scalable systems utilizing microservices and message-driven architectures such as Apache Kafka. I am also proficient in cloud platforms like AWS, enabling me to deliver efficient, scalable, and resilient solutions.
 
