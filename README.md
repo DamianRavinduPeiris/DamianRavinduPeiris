@@ -2,9 +2,9 @@
 
 
 # Hi, I'm Damian Peiris.👋🏻
-I’m a results-oriented professional with a strong focus on delivering clean, scalable, and forward-thinking solutions. I approach challenges with curiosity, clarity, and a strategic mindset, always aiming to create real impact.
+Results-oriented tech professional focused on building clean, scalable, and future-ready solutions. I tackle challenges with curiosity, precision, and a strategic mindset—driven to deliver real-world impact.
 
-Committed to staying current with industry trends, I bring a balance of adaptability and purpose to every project.
+With a strong pulse on evolving industry trends, I blend adaptability with intent, ensuring every initiative moves the needle.
 ## Languages,Tools and Frameworks.
 <br>
 <div>
