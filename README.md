@@ -2,10 +2,9 @@
 
 
 # Hi, I'm Damian Peiris.👋🏻
-I am a results-oriented professional with a robust background in Java, Spring Boot, and the MERN stack. My expertise encompasses modern development practices, including Dockerization, unit testing with JUnit and Mockito, and the design of scalable systems utilizing microservices and message-driven architectures such as Apache Kafka. I am also proficient in cloud platforms like AWS, enabling me to deliver efficient, scalable, and resilient solutions.
+I’m a results-oriented professional with a strong focus on delivering clean, scalable, and forward-thinking solutions. I approach challenges with curiosity, clarity, and a strategic mindset, always aiming to create real impact.
 
-Driven by a deep sense of curiosity and a commitment to continuous learning, I remain at the forefront of emerging technologies and best practices. I possess a strong ability to independently tackle complex challenges, leveraging research and analytical thinking to devise effective solutions. My passion for innovation and quality drives me to consistently deliver results that meet both technical and business objectives with precision and efficiency.
-
+Committed to staying current with industry trends, I bring a balance of adaptability and purpose to every project.
 ## Languages,Tools and Frameworks.
 <br>
 <div>
