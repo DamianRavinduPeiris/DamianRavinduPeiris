@@ -3,10 +3,6 @@ Results-oriented innovator focused on building clean, scalable, and future-ready
 
 With a strong pulse on evolving industry trends, I blend adaptability with intent, ensuring every initiative moves the needle
 
-
-
-<br><br>
-
 ## Github Stats.
 
 <div>
