@@ -1,6 +1,4 @@
-# Hey, 
-
-# I'm Damian! 🙋🏻‍♂️
+#   🙋🏻‍♂️ Hey, I'm Damian!
 
 
 Results-driven innovator focused on creating thoughtful, scalable, and forward-looking solutions. I approach challenges with curiosity and precision, turning ideas into outcomes that create tangible value.
